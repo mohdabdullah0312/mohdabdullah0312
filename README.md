@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohd Abdullah</h1>
-<h3 align="center">Python Developer | Cybersecurity Enthusiast | ECE Graduate</h3>
+<h3 align="center">Python Developer | Cybersecurity Enthusiast | BTech Graduate</h3>
 
 ---
 
