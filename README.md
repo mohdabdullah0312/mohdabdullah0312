@@ -24,4 +24,5 @@ Platforms   : Windows, Linux
 📫 Contact Me
 
 📧 Email: mohdabdullah0312@gmail.com
+
 🔗 LinkedIn
