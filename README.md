@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Mohd Abdullah</h1>
+<h3 align="center">Python Developer | Cybersecurity Enthusiast | ECE Graduate</h3>
 
-<!--
-**mohdabdullah0312/mohdabdullah0312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🚀 **Projects**
+- 🔐 [SecureShare for IoT Devices](https://github.com/mohdabdullah0312/SecureShare) – Peer-to-peer encrypted file & clipboard sharing using ECDH + AES
+- 🧰 [Mini_Utils](https://github.com/mohdabdullah0312/Mini_Utils) – Python utility scripts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🧑‍💻 **Tech Stack**
+```bash
+Languages   : Python, Bash
+Libraries   : Tkinter, ECDSA, PyCryptodome, Paramiko
+Tools       : Git, GitHub, PyInstaller, Wireshark
+Platforms   : Windows, Linux
