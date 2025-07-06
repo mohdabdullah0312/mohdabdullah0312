@@ -15,5 +15,8 @@ Languages   : Python, Bash
 Libraries   : Tkinter, ECDSA, PyCryptodome, Paramiko
 Tools       : Git, GitHub, PyInstaller, Wireshark
 Platforms   : Windows, Linux
+```
 
+📈 GitHub Stats
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mohdabdullah0312&show_icons=true&theme=dark" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohdabdullah0312&theme=dark" /> </p>
