@@ -11,9 +11,9 @@
 
 🧑‍💻 **Tech Stack**
 ```bash
-Languages   : Python, Bash
+Languages   : Python, Bash, SQL
 Libraries   : Tkinter, ECDSA, PyCryptodome, Paramiko
-Tools       : Git, GitHub, PyInstaller, Wireshark
+Tools       : Git, GitHub, PyInstaller, Wireshark, MySQL, Linux terminal
 Platforms   : Windows, Linux
 ```
 
