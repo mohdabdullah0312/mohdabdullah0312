@@ -23,5 +23,5 @@ Platforms   : Windows, Linux
 
 📬 **Contact Me**
 
-- 📧 Email: [mohdabdullah0312@gmail.com](mailto:mohdabdullah0312@gmail.com)
+- 📧 Email: [mohdabdullahasim@gmail.com](mailto:mohdabdullahasim@gmail.com)
 - 💼 [LinkedIn Profile](https://www.linkedin.com/in/muhammadabdullahasim)
